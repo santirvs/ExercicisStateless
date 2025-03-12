@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="ex4_color1">#FFEADDFF</color>
+    <color name="ex4_color2">#FFD0BCFF</color>
+    <color name="ex4_color3">#FFB69DF8</color>
+    <color name="ex4_color4">#FFF6EDFF</color>
+
+
+
 </resources>
